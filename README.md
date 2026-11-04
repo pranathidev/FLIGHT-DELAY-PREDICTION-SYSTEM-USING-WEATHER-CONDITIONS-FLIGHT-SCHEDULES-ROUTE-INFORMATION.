@@ -1,0 +1,2 @@
+# FLIGHT-DELAY-PREDICTION-SYSTEM-USING-WEATHER-CONDITIONS-FLIGHT-SCHEDULES-ROUTE-INFORMATION.
+Flight delays significantly affect airline operations, airport efficiency, and passenger satisfaction. Delays may occur due to adverse weather conditions, airport congestion, route complexity, technical issues, and scheduling conflicts. Traditional delay estimation methods rely on manual analysis and historical observations.
